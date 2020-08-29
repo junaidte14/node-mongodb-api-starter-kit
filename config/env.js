@@ -1,8 +1,8 @@
 const configVars = {
-    secretKey: 'b<i:WI]!`!;@31d=]a|o!_+x0IYL=3;pE@[^HV}zk@+C>Bs::-xM(H}~4M]6)@lcodoschedule',
-    adminEmail: 'junaidte14@gmail.com',
-    adminPassword: 'codo@12345',
-    dbURL: 'mongodb+srv://codoplex:codoschedulejun786ju@cluster0.hecjn.mongodb.net/codoschedule?retryWrites=true&w=majority',
+    secretKey: 'add secret key here',
+    adminEmail: 'add login email here',
+    adminPassword: 'add password here',
+    dbURL: 'add mongodb URI here',
     emailFrom: '',
     mailSettings: {
       pool: true,
