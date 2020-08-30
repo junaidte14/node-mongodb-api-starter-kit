@@ -20,8 +20,7 @@ app.use((req, res, next) => {
 });
 
 app.use((req, res, next) => {
-    datastore.conn();
-    next();
+    datastore.conn(res, next);
 });
 
 //routes
